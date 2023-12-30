@@ -1,0 +1,4 @@
+- 🦊 Hi, I’m Reyndi!
+- 💻 I code Discord & Revolt bots, as well as websites.
+- 🌱 I’m currently learning JavaScript, HTML, CSS and Java
+- 📫 You can contact me through Discord @ reyndi.
